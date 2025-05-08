@@ -1,7 +1,5 @@
-Hardware Connection
-1. V-LED -> 150 OHM -> 220μF <- GND STM32
-2. LED-GND -> GND STM32
-3. LED -> PA8 STM32
-4. S-GND -> GND STM32
-5. V0 -> PA7 STM32
-6. VCC -> 3.3V STM32
+Hardware Connection (BME280 -> STM32)
+1. VCC -> 3.3V
+2. GND -> GND
+3. SDA -> SDA
+4. SCL -> SCL
